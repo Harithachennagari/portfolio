@@ -1,0 +1,45 @@
+body {
+  background: #f5f5ff;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.typing {
+  font-weight: 600;
+  color: #00796b;
+}
+
+h2, h4 {
+  letter-spacing: 1px;
+}
+
+.btn-large.teal {
+  transition: all 0.3s ease;
+}
+
+.btn-large.teal:hover {
+  background-color: #00695c;
+}
+
+.collection .collection-item {
+  border-left: 5px solid #00796b;
+  background-color: #fff;
+  margin-bottom: 10px;
+  transition: transform 0.2s ease;
+}
+
+.collection .collection-item:hover {
+  transform: scale(1.02);
+}
+
+.section {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+
+.project-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+}
+
+/* Removed profile image styles */
