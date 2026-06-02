@@ -1,19 +1,11 @@
+```css id="v8s4jk"
 body {
   background: #f5f5ff;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-.typing {
-  font-weight: 600;
-  color: #00796b;
-}
-
 h2, h4 {
   letter-spacing: 1px;
-}
-
-.btn-large.teal {
-  transition: all 0.3s ease;
 }
 
 .btn-large.teal:hover {
@@ -24,11 +16,6 @@ h2, h4 {
   border-left: 5px solid #00796b;
   background-color: #fff;
   margin-bottom: 10px;
-  transition: transform 0.2s ease;
-}
-
-.collection .collection-item:hover {
-  transform: scale(1.02);
 }
 
 .section {
@@ -41,5 +28,4 @@ h2, h4 {
   align-items: flex-start;
   gap: 20px;
 }
-
-/* Removed profile image styles */
+```
